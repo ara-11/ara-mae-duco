@@ -31,11 +31,11 @@ function Projects() {
     <>
     A beginner-friendly Netflix-style React app with movie data from TMDB API. Still under improvement. Live Demo:&nbsp;
     <a
-    href="https://personal-project-de323.web.app/"
+    href="https://moovix-95450.web.app/"
     target="_blank"
     rel="noopener noreferrer"
     >
-      https://personal-project-de323.web.app/
+      https://moovix-95450.web.app/
       </a>
     </>
   ),
