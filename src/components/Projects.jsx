@@ -25,7 +25,7 @@ function Projects() {
     image: projectImg1,
     },
 {
-  title: 'Netflix Clone',
+  title: 'Moovix',
   description: 'A beginner-friendly Netflix-style React app with movie data from TMDB API.',
   description2: (
     <>
